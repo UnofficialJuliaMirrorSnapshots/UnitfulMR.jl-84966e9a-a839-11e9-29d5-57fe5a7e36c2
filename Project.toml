@@ -1,7 +1,7 @@
 name = "UnitfulMR"
 uuid = "84966e9a-a839-11e9-29d5-57fe5a7e36c2"
 authors = ["Ray-Lab <tianrluo@users.noreply.github.com>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
@@ -13,4 +13,4 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 test = ["Test"]
 
 [compat]
-julia = "1.1"
+julia = "≥ 0.7"
